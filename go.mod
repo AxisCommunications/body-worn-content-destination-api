@@ -7,7 +7,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/kardianos/service v1.2.2
 	github.com/ncw/swift/v2 v2.0.2
-	golang.org/x/crypto v0.52.0
+	golang.org/x/crypto v0.57.0
 	golang.org/x/term v0.43.0
 )
 
